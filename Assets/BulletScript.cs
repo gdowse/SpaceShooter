@@ -12,7 +12,9 @@ public class BulletScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        if(transform.position.y > 6){
+            Destroy(gameObject);
+        }
 	}
 
 	void OnTriggerEnter2D(Collider2D other) {

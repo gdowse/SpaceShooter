@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BulletScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BulletScript.cs">
     <Files>
-      <File FileName="Assets/ShipMovement.cs" Line="41" Column="103" />
-      <File FileName="Assets/BulletScript.cs" Line="18" Column="14" />
+      <File FileName="Assets\ShipMovement.cs" Line="41" Column="103" />
+      <File FileName="Assets\BulletScript.cs" Line="15" Column="36" />
+      <File FileName="Assets\EnemyScript.cs" Line="29" Column="76" />
+      <File FileName="Assets\EnemySpawn.cs" Line="27" Column="69" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
