@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{45C40E6E-66B8-4C8E-67B4-30FF28406260}") = "SpaceShooter 2", "Assembly-CSharp-firstpass.csproj", "{A564DD8D-F526-2043-D1EF-D7FA08786613}"
+EndProject
+Project("{45C40E6E-66B8-4C8E-67B4-30FF28406260}") = "SpaceShooter 2", "Assembly-CSharp.csproj", "{AF45EB8B-356C-66BC-A07B-2A456571AEF9}"
+EndProject
+Project("{45C40E6E-66B8-4C8E-67B4-30FF28406260}") = "SpaceShooter 2", "Assembly-CSharp-Editor-firstpass.csproj", "{0DE02AE9-ACA2-6ABE-CCEF-8DD5DBFCD106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A564DD8D-F526-2043-D1EF-D7FA08786613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A564DD8D-F526-2043-D1EF-D7FA08786613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A564DD8D-F526-2043-D1EF-D7FA08786613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A564DD8D-F526-2043-D1EF-D7FA08786613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF45EB8B-356C-66BC-A07B-2A456571AEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF45EB8B-356C-66BC-A07B-2A456571AEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF45EB8B-356C-66BC-A07B-2A456571AEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF45EB8B-356C-66BC-A07B-2A456571AEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE02AE9-ACA2-6ABE-CCEF-8DD5DBFCD106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE02AE9-ACA2-6ABE-CCEF-8DD5DBFCD106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE02AE9-ACA2-6ABE-CCEF-8DD5DBFCD106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE02AE9-ACA2-6ABE-CCEF-8DD5DBFCD106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

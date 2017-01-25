@@ -28,7 +28,9 @@ public class EnemyScript : MonoBehaviour {
         
         transform.position = pos + axis * Mathf.Sin ((Time.time - startTime) * frequency) * magnitude;
         pos += transform.up * Time.deltaTime * MoveSpeed;
-
+		if (transform.position.y < -7) {
+			Destroy (gameObject);
+		}
        
 	}
 
